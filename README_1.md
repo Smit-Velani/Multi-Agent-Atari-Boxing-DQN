@@ -124,4 +124,4 @@ jupyter notebook Multi_Agent_Atari_Boxing.ipynb
 
 **Smitkumar Velani**
 MS Data Science — Northeastern University
-[GitHub](https://github.com/Smit-Velani) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Smit-Velani) | [LinkedIn](www.linkedin.com/in/smit-velani)
