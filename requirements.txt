@@ -1,0 +1,6 @@
+pettingzoo[atari]==1.25.0
+torch>=2.0.0
+numpy>=1.21.0
+opencv-python
+matplotlib
+autorom[accept-rom-license]
